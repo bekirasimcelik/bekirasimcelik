@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Bekir Asım Çelik!</h1>
 
-🔭I am currently working on React, React Native, Node.js, web scraping (javascript, python), image processing and machine learning.
+🔭I am currently working on React, React Native, NodeJS, ExpressJS, NextJS, web scraping (javascript, python), image processing and machine learning.
 
 🔮 I develop projects with React, Javascript, React Native, Python & MySQL.
 

@@ -4,7 +4,7 @@
 
 🔮 I develop projects with React, Javascript, React Native, Python & MySQL.
 
-💬 Ask me about React, JS, React Native, Javascript, Python.
+💬 Ask me about React, React Native, Javascript, Python.
 
 🤭 I am open and willing to learn new things.
 

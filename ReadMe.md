@@ -1,16 +1,10 @@
-<h1 align="center">Hi there! 👋 I'm Bekir Asım Çelik!</h1>
+<h1 align="center">Hi there! I'm Bekir Asım Çelik!</h1>
 
-🔭I am currently working on React, React Native, NodeJS, ExpressJS, NextJS, web scraping (javascript, python), image processing and machine learning.
+I am currently working as a Software Engineer on C#, React, React Native, NodeJS, web scraping and machine learning.
 
-🔮 I develop projects with React, Javascript, React Native, Python & MySQL.
+I always open and willing to learn new things.
 
-💬 Ask me about React, React Native, Javascript, Python.
-
-🤭 I am open and willing to learn new things.
-
-📫 How can you reach me bekirasimcelik@gmail.com
-
-🎯 Website address www.bekirasimcelik.com
+How can you reach me bekirasimcelik@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
